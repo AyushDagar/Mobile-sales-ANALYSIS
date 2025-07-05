@@ -41,12 +41,16 @@ Sales Growth = [Total Sales] - [Sales LY]
 Sales Growth % = DIVIDE([Sales Growth], [Sales LY])
 Profit Margin = [Total Profit] / [Total Sales]
 
+
+
 ---
 
-##  Visuals Included
-    ```Visuals
+### 🔧 Fix it like this (no backticks needed):
 
- - KPI Cards (Total Sales, Total Profit, Quantity Sold)
+```markdown
+## 📊 Visuals Included
+
+- KPI Cards (Total Sales, Total Profit, Quantity Sold)
 - Clustered Bar Chart (Sales by Product Category)
 - Pie Chart (Customer Segment Distribution)
 - Line Chart (Monthly Sales Trend)
@@ -56,7 +60,7 @@ Profit Margin = [Total Profit] / [Total Sales]
 
 ---
 
-## Dashboard Insights
+## 📈 Dashboard Insights
 
 - Identified top-performing and underperforming product categories
 - Analyzed profit margins across products and regions
