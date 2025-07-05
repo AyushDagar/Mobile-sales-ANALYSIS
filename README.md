@@ -45,9 +45,6 @@ Profit Margin = [Total Profit] / [Total Sales]
 
 ---
 
-### 🔧 Fix it like this (no backticks needed):
-
-```markdown
 ## 📊 Visuals Included
 
 - KPI Cards (Total Sales, Total Profit, Quantity Sold)
