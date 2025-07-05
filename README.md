@@ -9,9 +9,9 @@ This is an end-to-end Power BI project that visualizes and analyzes sales data u
 
 ##  Project Files
 
-- `SalesDashboardProject.pbix` – Main Power BI dashboard file
-- `/data/` – Raw source data files (CSV/Excel)
-- `/images/` – Dashboard screenshots (optional)
+- `Dashboard project.pbix` – Main Power BI dashboard file
+- ` Mobile Sales Data (CSV/Excel)
+- `/images/` – Dashboard screenshots 
 - `README.md` – Project documentation
 
 ---
@@ -41,7 +41,10 @@ Sales Growth = [Total Sales] - [Sales LY]
 Sales Growth % = DIVIDE([Sales Growth], [Sales LY])
 Profit Margin = [Total Profit] / [Total Sales]
 
+---
+
 ##  Visuals Included
+    ```Visuals
 
  - KPI Cards (Total Sales, Total Profit, Quantity Sold)
 - Clustered Bar Chart (Sales by Product Category)
@@ -50,6 +53,8 @@ Profit Margin = [Total Profit] / [Total Sales]
 - Map Visual (Sales by Country/Region)
 - Table with Conditional Formatting
 - Slicers for dynamic filtering (Date, Category, Region)
+
+---
 
 ## Dashboard Insights
 
