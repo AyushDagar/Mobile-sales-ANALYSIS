@@ -2,20 +2,19 @@
 
 This is an end-to-end Power BI project that visualizes and analyzes sales data using interactive dashboards. The project includes **data transformation**, **DAX measures**, **relationship modeling**, and **business insights**.
 
-![Dashboard Screenshot](images/sales-dashboard.png) <!-- Optional: Add a screenshot to /images folder -->
+
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
-- `SalesDashboardProject.pbix` – Main Power BI dashboard file
-- `/data/` – Raw source data files (CSV/Excel)
-- `/images/` – Dashboard screenshots (optional)
+- `DashboardProject.pbix` – Main Power BI dashboard file
+- Mobile sales data (CSV/Excel)
 - `README.md` – Project documentation
 
 ---
 
-## 🔧 Data Cleaning & Transformation (Power Query)
+##  Data Cleaning & Transformation (Power Query)
 
 Performed inside Power BI using Power Query Editor:
 
@@ -29,7 +28,7 @@ Performed inside Power BI using Power Query Editor:
 
 ---
 
-## 🔢 DAX Measures Used
+##  DAX Measures Used
 
 ```DAX
 Total Sales = SUM(Sales[SalesAmount])
@@ -41,7 +40,7 @@ Sales Growth % = DIVIDE([Sales Growth], [Sales LY])
 Profit Margin = [Total Profit] / [Total Sales]
 ---
 
-## 📊 Visuals Included
+**## Visuals Included**
 
 - KPI Cards (Total Sales, Total Profit, Quantity Sold)
 - Clustered Bar Chart (Sales by Product Category)
@@ -53,7 +52,7 @@ Profit Margin = [Total Profit] / [Total Sales]
 
 ---
 
-## 📈 Dashboard Insights
+**##  Dashboard Insights**
 
 - Identified top-performing and underperforming product categories
 - Analyzed profit margins across products and regions
@@ -64,7 +63,7 @@ Profit Margin = [Total Profit] / [Total Sales]
 
 ---
 
-## 🚀 Tools Used
+**##  Tools Used**
 
 - Power BI Desktop
 - Power Query Editor
@@ -72,7 +71,3 @@ Profit Margin = [Total Profit] / [Total Sales]
 
 ---
 
-## 📬 Contact
-
-- 📧 Email: [your_email@example.com]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/your-profile/]
