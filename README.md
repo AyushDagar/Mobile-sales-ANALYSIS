@@ -41,11 +41,9 @@ Sales Growth = [Total Sales] - [Sales LY]
 Sales Growth % = DIVIDE([Sales Growth], [Sales LY])
 Profit Margin = [Total Profit] / [Total Sales]
 
-
-
 ---
 
-## 📊 Visuals Included
+##  Visuals Included
 
 - KPI Cards (Total Sales, Total Profit, Quantity Sold)
 - Clustered Bar Chart (Sales by Product Category)
@@ -57,7 +55,7 @@ Profit Margin = [Total Profit] / [Total Sales]
 
 ---
 
-## 📈 Dashboard Insights
+##  Dashboard Insights
 
 - Identified top-performing and underperforming product categories
 - Analyzed profit margins across products and regions
@@ -66,6 +64,14 @@ Profit Margin = [Total Profit] / [Total Sales]
 - Compared sales by customer segments to understand buying behavior
 - Monitored year-over-year growth using DAX time intelligence
 
+---
 
+##  Tools Used
+
+- Power BI Desktop
+- Power Query Editor
+- DAX (Data Analysis Expressions)
+
+---
 
 
